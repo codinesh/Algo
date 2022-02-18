@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ade95d",
+        "activityBar.activeBorder": "#3b9ce4",
+        "activityBar.background": "#ade95d",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#3b9ce4",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#ade95d",
+        "tab.activeBorder": "#ade95d"
+    },
+    "dotnet-test-explorer.testProjectPath": "**/*Tests.@(csproj|vbproj|fsproj)",
+    "peacock.color": "#96e330"
+}
